@@ -1,0 +1,7 @@
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\obj\Debug\DuckyGen.csprojResolveAssemblyReference.cache
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\bin\Debug\DuckyGen.exe
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\bin\Debug\DuckyGen.pdb
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\obj\Debug\DuckyGen.exe
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\obj\Debug\DuckyGen.pdb
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\bin\Debug\DuckyGenLib.dll
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGen\bin\Debug\DuckyGenLib.pdb

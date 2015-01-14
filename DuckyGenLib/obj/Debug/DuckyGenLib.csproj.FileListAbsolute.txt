@@ -1,0 +1,4 @@
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGenLib\bin\Debug\DuckyGenLib.dll
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGenLib\bin\Debug\DuckyGenLib.pdb
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGenLib\obj\Debug\DuckyGenLib.dll
+C:\Users\Anguis\CloudStation\Main Projects\DuckyGen\DuckyGenLib\obj\Debug\DuckyGenLib.pdb
